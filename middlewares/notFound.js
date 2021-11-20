@@ -1,0 +1,1 @@
+module.exports = (req, res) => res.status(404).json({ mssage: "Route dose not exist" })
